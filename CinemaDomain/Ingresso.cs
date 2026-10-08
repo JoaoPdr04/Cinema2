@@ -1,5 +1,7 @@
 ﻿
 
+using CinemaDomain.Base;
+
 namespace CinemaDomain
 {
     public class Ingresso : BaseEntity

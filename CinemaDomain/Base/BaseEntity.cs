@@ -1,6 +1,4 @@
-﻿
-
-namespace CinemaDomain
+﻿namespace CinemaDomain.Base
 {
     public abstract class BaseEntity
     {

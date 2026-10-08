@@ -3,6 +3,7 @@ namespace CinemaDomain
 {
     public class IngressoItem
     {
+        public int Id { get; set; }
         public int Assento { get; set; }
 
         public int Fileira { get; set; }

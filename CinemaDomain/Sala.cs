@@ -1,4 +1,6 @@
 ﻿
+using CinemaDomain.Base;
+
 namespace CinemaDomain
 {
     public class Sala : BaseEntity
@@ -9,7 +11,6 @@ namespace CinemaDomain
 
         public int Fileiras { get; set; }
         
-
         public int Assentos { get; set; }
         
     }
